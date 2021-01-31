@@ -1,0 +1,2 @@
+local location is C:\Temp\git_test\hello-world
+Question - when it is created, how to keep this link forever?
