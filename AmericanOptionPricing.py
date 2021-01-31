@@ -7,7 +7,7 @@ http://gouthamanbalaraman.com/blog/american-option-pricing-quantlib-python.html
 
 import QuantLib as ql 
 import matplotlib.pyplot as plt
-%matplotlib inline
+#%matplotlib inline
 ql.__version__
 
 # option data
