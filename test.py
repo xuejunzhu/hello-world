@@ -18,6 +18,7 @@ plt.title(title)
 plt.savefig(filename)  
 plt.show()
 
+# step 2
 
 
 
@@ -27,4 +28,6 @@ plt.show()
 
 
 
-# %%
+
+
+
